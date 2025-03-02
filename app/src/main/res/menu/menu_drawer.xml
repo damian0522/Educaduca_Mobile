@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_opcion1"
+        android:title="Todos los cursos"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:enabled="false" />
+    <item
+        android:id="@+id/nav_opcion2"
+        android:title="Sobre Nosotros"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:enabled="false" />
+    <item
+        android:id="@+id/nav_opcion3"
+        android:title="Oficinas"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:enabled="false" />
+    <item
+        android:id="@+id/nav_opcion4"
+        android:title="Certificados"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:enabled="false" />
+    <item
+        android:id="@+id/nav_opcion5"
+        android:title="Mas servicios"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:enabled="false" />
+    <item
+        android:id="@+id/nav_opcion6"
+        android:title="Contacto"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:enabled="false" />
+</menu>
